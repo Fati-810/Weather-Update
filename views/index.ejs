@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Report</title>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="grid-container">
+        <div class="grid-item"></div>
+        <div class="grid-item"></div>
+        <div class="grid-item right"></div>
+        <div class="grid-item"> </div>
+        <div class="grid-item center"> 
+            <p>Weather is Currently <%= weather %></p>
+            <h3>Temperature in <%= query %> is <%=temp %> Degrees Celsius</h3>
+            <img src= <%=imageURL %> alt="Weather Image">
+        </div>
+        <div class="grid-item right"></div>  
+        <div class="grid-item"></div>
+        <div class="grid-item "></div>
+        <div class="grid-item right"></div>  
+      </div>
+</body>
+</html>
