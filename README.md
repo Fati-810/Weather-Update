@@ -10,7 +10,7 @@ The Weather Update website is a simple and clean weather application that allows
 
 📱 Responsive Design: Works on desktop and mobile devices.
 
-# Technical Overview (Behind the Scenes):
+# Technical Overview: (Behind the Scenes)
 
 Frontend: Built using HTML, CSS, Bootstrap.
 
