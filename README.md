@@ -1,5 +1,5 @@
 # Weather-Update
-The Weather Update website is a simple and clean weather application that allows users to get the current weather of any city they enter. It uses a weather API (OpenWeatherMap) to fetch and display real-time weather data.
+The Weather Update website is a **simple** and **clean weather application** that allows users to get the current weather of any city they enter. It uses a weather API (OpenWeatherMap) to fetch and display **real-time** weather data.
 
 # Features:
 🌍 City-based Weather Search: Users can type any city name to get the current weather.
